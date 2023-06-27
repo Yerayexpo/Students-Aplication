@@ -1,0 +1,58 @@
+[
+  {
+    "name": "64879ed95340903bb1ebb0fe",
+    "description": "Evento de Visitar museos",
+    "events": ["6487a2b3c6fbcccc68731aff"],
+    "participantes": ["6487a21ac6fbcccc68731a5a"],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb111",
+    "description": "Evento de Ajedrez",
+    "events": ["6487a2b3c6fbcccc68731afc"],
+    "participantes": ["6487a21ac6fbcccc6873183c" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb103",
+    "description": "Evento de Gimnasio",
+    "events": ["6487a2b3c6fbcccc68731b04"],
+    "participantes": ["6487a21ac6fbcccc68731912" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb107",
+    "description": "Evento de Natación",
+    "events": [ "6487a2b3c6fbcccc68731b03" ],
+    "participantes": ["6487a21ac6fbcccc68731a62" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb0fe",
+    "description": "Evento de Revistas",
+    "events": ["6487a2b3c6fbcccc68731b0c"],
+    "participantes": ["6487a21ac6fbcccc687319c9" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb101",
+    "description": "Evento de Viajar",
+    "events": [ "6487a2b3c6fbcccc68731afe" ],
+    "participantes": ["6487a21ac6fbcccc687319b8" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "64879ed95340903bb1ebb106",
+    "description": "Evento de Libros",
+    "events": ["6487a2b3c6fbcccc68731b07" ],
+    "participantes": ["6487a21ac6fbcccc68731869" ],
+    "oficial": false,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  }
+]

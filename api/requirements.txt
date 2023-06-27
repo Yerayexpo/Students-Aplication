@@ -1,0 +1,12 @@
+Flask==2.0.1
+openai==0.27.0
+sentiment_analysis_spanish==0.0.25
+spanlp==1.1.0
+flask==2.0.1
+requests==2.26.0
+folium==0.12.1
+googlemaps==4.5.3
+polyline==1.4.0
+Pillow==8.4.0
+gunicorn==20.1.0
+scikit-learn==1.0.1

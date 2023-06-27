@@ -1,0 +1,648 @@
+[{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731afc"
+  },
+  "name": "Evento de Ajedrez",
+  "description": "Evento de Ajedrez",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc6873196d"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.042Z"
+  },
+  "startDate": {
+    "$date": "2023-07-07T06:06:53.042Z"
+  },
+  "endDate": {
+    "$date": "2023-08-03T07:09:36.042Z"
+  },
+  "localization": "Alcàsser",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc6873183c"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb111"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731afd"
+  },
+  "name": "Evento de Spa",
+  "description": "Evento de Spa",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731841"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-21T14:16:00.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-03T15:27:55.043Z"
+  },
+  "localization": "Aldaia",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731878"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb104"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731afe"
+  },
+  "name": "Evento de Viajar",
+  "description": "Evento de Viajar",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc6873186b"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-13T08:28:01.043Z"
+  },
+  "endDate": {
+    "$date": "2023-08-02T10:10:46.043Z"
+  },
+  "localization": "Aldaia",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc687319b8"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb101"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731aff"
+  },
+  "name": "Evento de Visitar museos",
+  "description": "Evento de Visitar museos",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731956"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-29T05:41:25.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T07:25:20.043Z"
+  },
+  "localization": "Alboraya",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a5a"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb0fe"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b00"
+  },
+  "name": "Evento de Acampar",
+  "description": "Evento de Acampar",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731ade"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-09T03:00:57.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-10T04:43:48.043Z"
+  },
+  "localization": "Almàssera",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a4f"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb108"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b01"
+  },
+  "name": "Evento de Quedar con amigos",
+  "description": "Evento de Quedar con amigos",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc6873199d"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-08T16:17:07.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-17T17:43:39.043Z"
+  },
+  "localization": "Alfafar",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc6873195d"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb100"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b02"
+  },
+  "name": "Evento de Turismo",
+  "description": "Evento de Turismo",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731a15"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-20T04:36:01.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T05:55:09.043Z"
+  },
+  "localization": "Alfafar",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731aa6"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb114"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b03"
+  },
+  "name": "Evento de Natación",
+  "description": "Evento de Natación",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731843"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-25T21:02:30.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-21T23:00:07.043Z"
+  },
+  "localization": "Valencia",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a62"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb107"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b04"
+  },
+  "name": "Evento de Gimnasio",
+  "description": "Evento de Gimnasio",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc687318a0"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-21T09:12:33.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-07T10:43:56.043Z"
+  },
+  "localization": "Almàssera",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731912"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb103"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b05"
+  },
+  "name": "Evento de Fotografía",
+  "description": "Evento de Fotografía",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731af0"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-28T23:43:52.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-15T00:51:17.043Z"
+  },
+  "localization": "Alfafar",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc687318a3"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10f"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b06"
+  },
+  "name": "Evento de Fútbol",
+  "description": "Evento de Fútbol",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc687319b6"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-14T18:28:49.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-08T19:55:23.043Z"
+  },
+  "localization": "Valencia",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a7d"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb0ff"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b07"
+  },
+  "name": "Evento de Libros",
+  "description": "Evento de Libros",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc6873186b"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-05T03:06:49.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T04:29:51.043Z"
+  },
+  "localization": "Alcàsser",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731869"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb106"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b08"
+  },
+  "name": "Evento de Caminar",
+  "description": "Evento de Caminar",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731888"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-19T20:32:54.043Z"
+  },
+  "endDate": {
+    "$date": "2023-06-22T21:34:14.043Z"
+  },
+  "localization": "Alboraya",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a6b"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb104"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b09"
+  },
+  "name": "Evento de Tenis",
+  "description": "Evento de Tenis",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731a6d"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-09T16:21:34.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-31T18:15:05.043Z"
+  },
+  "localization": "Almàssera",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a28"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10b"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0a"
+  },
+  "name": "Evento de Voluntariados",
+  "description": "Evento de Voluntariados",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731880"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-19T06:11:17.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-16T08:01:10.043Z"
+  },
+  "localization": "Alfafar",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731ac7"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10a"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0b"
+  },
+  "name": "Evento de Actividades al aire libre",
+  "description": "Evento de Actividades al aire libre",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc687318db"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-12T09:30:14.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T10:45:03.043Z"
+  },
+  "localization": "Alfafar",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731a7a"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10f"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0c"
+  },
+  "name": "Evento de Revistas",
+  "description": "Evento de Revistas",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc687318e5"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-06T09:06:17.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-24T10:21:37.043Z"
+  },
+  "localization": "Almàssera",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc687319c9"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb0fe"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0d"
+  },
+  "name": "Evento de Yoga",
+  "description": "Evento de Yoga",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731837"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-04T05:53:10.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T07:20:35.043Z"
+  },
+  "localization": "Almàssera",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731af6"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10c"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0e"
+  },
+  "name": "Evento de Videojuegos",
+  "description": "Evento de Videojuegos",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc6873187b"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-07-11T07:05:17.043Z"
+  },
+  "endDate": {
+    "$date": "2023-08-08T08:08:19.043Z"
+  },
+  "localization": "Alboraya",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc68731af4"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb10c"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6487a2b3c6fbcccc68731b0f"
+  },
+  "name": "Evento de Conciertos",
+  "description": "Evento de Conciertos",
+  "createdBy": {
+    "$oid": "6487a21ac6fbcccc68731a3c"
+  },
+  "date": {
+    "$date": "2023-06-13T00:55:47.043Z"
+  },
+  "startDate": {
+    "$date": "2023-06-27T12:14:36.043Z"
+  },
+  "endDate": {
+    "$date": "2023-07-13T14:02:24.043Z"
+  },
+  "localization": "Alboraya",
+  "attendees": [
+    {
+      "$oid": "6487a21ac6fbcccc6873189a"
+    }
+  ],
+  "imageUrl": "https://picsum.photos/200/300",
+  "tags": [
+    "64879ed95340903bb1ebb108"
+  ],
+  "oficial": false
+},
+{
+  "_id": {
+    "$oid": "6489d389c6fbcccc68731b10"
+  },
+  "name": "HR INTERNATIONAL SUMMER SCHOOL",
+  "description": "Conoce y fórmate en las tendencias más innovadoras en la Gestión de Personas desde el punto de vista de responsables de RRHH.",
+  "createdBy": "6488e85f0130fed4d1624e6c",
+  "date": {
+    "$date": "2023-06-14T16:49:14.752Z"
+  },
+  "startDate": {
+    "$date": "2023-06-15T16:49:14.752Z"
+  },
+  "endDate": {
+    "$date": "2023-06-15T17:49:14.752Z"
+  },
+  "localization": "EDEM",
+  "attendees": [],
+  "imageUrl": "https://edem.eu/wp-content/uploads/2023/05/2summer-school-landing-nueva.png",
+  "tags": [
+    "6489af585340903bb1ebb11e"
+  ],
+  "oficial": true
+},
+{
+  "_id": {
+    "$oid": "6489d389c6fbcccc68731b11"
+  },
+  "name": "EDEM STARTUP",
+  "description": "EDEM Startup es un programa de incubación y aceleración de startups que ofrece a los emprendedores un espacio de trabajo, formación, asesoramiento y networking.",
+  "createdBy": "6488e85f0130fed4d1624e6c",
+  "date": {
+    "$date": "2023-06-14T16:49:14.752Z"
+  },
+  "startDate": {
+    "$date": "2023-06-15T16:49:14.752Z"
+  },
+  "endDate": {
+    "$date": "2023-06-15T17:49:14.752Z"
+  },
+  "localization": "EDEM",
+  "attendees": [],
+  "imageUrl": "https://edem.eu/wp-content/uploads/2021/05/edem-startup-landing.png",
+  "tags": [
+    "6489af585340903bb1ebb11e"
+  ],
+  "oficial": true
+}]

@@ -1,0 +1,917 @@
+[{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb095"
+  },
+  "name": "Programación en Python",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb096"
+  },
+  "name": "Estadística y análisis de datos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb097"
+  },
+  "name": "Aprendizaje automático (Machine Learning) y algoritmos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb098"
+  },
+  "name": "Herramientas y bibliotecas de ciencia de datos (pandas, numpy, scikit-learn, TensorFlow)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb099"
+  },
+  "name": "Visualización de datos (Matplotlib, seaborn, Plotly, Power BI)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09a"
+  },
+  "name": "Manipulación y limpieza de datos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09b"
+  },
+  "name": "Análisis de datos y exploración",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09c"
+  },
+  "name": "Bases de datos y consultas SQL",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09d"
+  },
+  "name": "Procesamiento de lenguaje natural (NLP) y reconocimiento de voz",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09e"
+  },
+  "name": "Diseño y desarrollo de APIs",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb09f"
+  },
+  "name": "Control de versiones (Git)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a0"
+  },
+  "name": "Lenguajes de programación frontend (HTML, CSS, JavaScript)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a1"
+  },
+  "name": "Frameworks de desarrollo frontend (React, Angular, Vue.js)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a2"
+  },
+  "name": "Lenguajes de programación backend (JavaScript/Node.js, Python, Ruby, Java, C#)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a3"
+  },
+  "name": "Frameworks de desarrollo backend (Express.js, Django, Ruby on Rails, ASP.NET)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a4"
+  },
+  "name": "Bases de datos y consultas SQL",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a5"
+  },
+  "name": "Diseño y desarrollo de APIs",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a6"
+  },
+  "name": "Control de versiones (Git)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a7"
+  },
+  "name": "Conocimientos en sistemas operativos y servidores web",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a8"
+  },
+  "name": "Pruebas de software y depuración",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0a9"
+  },
+  "name": "Seguridad web y prevención de ataques",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0aa"
+  },
+  "name": "Investigación de usuarios y pruebas de usabilidad",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ab"
+  },
+  "name": "Diseño de interacción y arquitectura de información",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ac"
+  },
+  "name": "Diseño visual y de interfaz de usuario (UI)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ad"
+  },
+  "name": "Prototipado y wireframing",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ae"
+  },
+  "name": "Herramientas de diseño (Sketch, Adobe XD, Figma)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0af"
+  },
+  "name": "Principios de diseño y estándares de usabilidad",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b0"
+  },
+  "name": "Conocimientos de HTML/CSS para implementar diseños",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b1"
+  },
+  "name": "Conocimientos de usabilidad móvil y diseño responsive",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b2"
+  },
+  "name": "Análisis de métricas de experiencia de usuario",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b3"
+  },
+  "name": "Colaboración con equipos de desarrollo y conocimiento del ciclo de vida de desarrollo de software",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b4"
+  },
+  "name": "Conocimientos de redes y protocolos (TCP/IP, DNS, VPN)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b5"
+  },
+  "name": "Seguridad de sistemas operativos y administración de sistemas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b6"
+  },
+  "name": "Identificación y mitigación de vulnerabilidades",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b7"
+  },
+  "name": "Análisis de amenazas y evaluación de riesgos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b8"
+  },
+  "name": "Criptografía y protocolos de seguridad",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0b9"
+  },
+  "name": "Prevención y detección de intrusiones",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ba"
+  },
+  "name": "Seguridad de aplicaciones web y móviles",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0bb"
+  },
+  "name": "Análisis forense digital",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0bc"
+  },
+  "name": "Cumplimiento normativo y estándares de seguridad (GDPR, ISO 27001)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0bd"
+  },
+  "name": "Conocimientos en herramientas de seguridad (Nessus, Wireshark, Metasploit)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0be"
+  },
+  "name": "SEO (Search Engine Optimization) y SEM (Search Engine Marketing)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0bf"
+  },
+  "name": "Gestión de campañas de publicidad en línea",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c0"
+  },
+  "name": "Analítica web y métricas de marketing",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c1"
+  },
+  "name": "Gestión de redes sociales y marketing de contenidos digitales",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c2"
+  },
+  "name": "Email marketing y automatización de marketing",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c3"
+  },
+  "name": "CRM (Customer Relationship Management)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c4"
+  },
+  "name": "Analítica de datos de marketing y reporting",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c5"
+  },
+  "name": "Herramientas de marketing digital (Google Analytics, Google Ads, Facebook Ads)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c6"
+  },
+  "name": "Estrategias de ventas y negociación en el entorno digital",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c7"
+  },
+  "name": "Conocimientos en herramientas y plataformas digitales de marketing",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c8"
+  },
+  "name": "Análisis de datos financieros y modelos predictivos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0c9"
+  },
+  "name": "Business Intelligence y visualización de datos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ca"
+  },
+  "name": "Gestión de riesgos y cumplimiento normativo en el sector financiero",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0cb"
+  },
+  "name": "Tecnologías financieras (fintech) y su aplicación en el negocio",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0cc"
+  },
+  "name": "Blockchain y criptomonedas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0cd"
+  },
+  "name": "Data mining y extracción de datos financieros",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ce"
+  },
+  "name": "Análisis estadístico y matemático aplicado a finanzas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0cf"
+  },
+  "name": "Estrategias de inversión y gestión de carteras",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d0"
+  },
+  "name": "Herramientas de análisis financiero (Excel, Power BI, Tableau)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d1"
+  },
+  "name": "Conocimiento en plataformas y sistemas utilizados en el sector financiero",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d2"
+  },
+  "name": "Gestión empresarial y estrategia",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d3"
+  },
+  "name": "Planificación y toma de decisiones estratégicas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d4"
+  },
+  "name": "Análisis financiero y contabilidad",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d5"
+  },
+  "name": "Liderazgo y habilidades de gestión",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d6"
+  },
+  "name": "Marketing y ventas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d7"
+  },
+  "name": "Gestión de proyectos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d8"
+  },
+  "name": "Negociación y resolución de conflictos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0d9"
+  },
+  "name": "Gestión de recursos humanos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0da"
+  },
+  "name": "Habilidades de comunicación y presentación",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0db"
+  },
+  "name": "Pensamiento crítico y resolución de problemas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0dc"
+  },
+  "name": "Análisis de datos y minería de datos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0dd"
+  },
+  "name": "Programación en Python o R",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0de"
+  },
+  "name": "Estadística y análisis estadístico",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0df"
+  },
+  "name": "Aprendizaje automático (Machine Learning) y algoritmos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e0"
+  },
+  "name": "Visualización de datos y herramientas de Business Intelligence (BI)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e1"
+  },
+  "name": "Bases de datos y consultas SQL",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e2"
+  },
+  "name": "Procesamiento de grandes volúmenes de datos (Big Data)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e3"
+  },
+  "name": "Modelado y predicción de datos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e4"
+  },
+  "name": "Herramientas y bibliotecas de análisis de datos (pandas, numpy, scikit-learn, TensorFlow)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e5"
+  },
+  "name": "Conocimientos en análisis de texto y procesamiento de lenguaje natural (NLP)",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e6"
+  },
+  "name": "Matemáticas para ingeniería",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e7"
+  },
+  "name": "Estadística aplicada",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e8"
+  },
+  "name": "Programación en Python",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0e9"
+  },
+  "name": "Economía y finanzas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ea"
+  },
+  "name": "Gestión de proyectos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0eb"
+  },
+  "name": "Ingeniería de procesos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ec"
+  },
+  "name": "Marketing y ventas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ed"
+  },
+  "name": "Gestión de la cadena de suministro",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ee"
+  },
+  "name": "Gestión de la calidad",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0ef"
+  },
+  "name": "Emprendimiento y creación de empresas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f0"
+  },
+  "name": "Contabilidad y finanzas",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f1"
+  },
+  "name": "Economía empresarial",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f2"
+  },
+  "name": "Marketing y estrategias comerciales",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f3"
+  },
+  "name": "Gestión de recursos humanos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f4"
+  },
+  "name": "Negociación y resolución de conflictos",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f5"
+  },
+  "name": "Derecho empresarial",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f6"
+  },
+  "name": "Dirección estratégica",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f7"
+  },
+  "name": "Análisis financiero",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f8"
+  },
+  "name": "Innovación y emprendimiento",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879e9a5340903bb1ebb0f9"
+  },
+  "name": "Planificación y control empresarial",
+  "profesional": true
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0fa"
+  },
+  "name": "Caminar",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0fb"
+  },
+  "name": "Correr",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0fc"
+  },
+  "name": "Cine",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0fd"
+  },
+  "name": "Libros",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0fe"
+  },
+  "name": "Revistas",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb0ff"
+  },
+  "name": "Fútbol",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb100"
+  },
+  "name": "Baloncesto",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb101"
+  },
+  "name": "Tenis",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb102"
+  },
+  "name": "Natación",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb103"
+  },
+  "name": "Senderismo",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb104"
+  },
+  "name": "Videojuegos",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb105"
+  },
+  "name": "Ajedrez",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb106"
+  },
+  "name": "Voluntariados",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb107"
+  },
+  "name": "Conciertos",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb108"
+  },
+  "name": "Cultura",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb109"
+  },
+  "name": "Restaurantes",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10a"
+  },
+  "name": "Bailar",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10b"
+  },
+  "name": "Gimnasio",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10c"
+  },
+  "name": "Yoga",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10d"
+  },
+  "name": "Viajar",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10e"
+  },
+  "name": "Quedar con amigos",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb10f"
+  },
+  "name": "Actividades al aire libre",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb110"
+  },
+  "name": "Acampar",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb111"
+  },
+  "name": "Visitar museos",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb112"
+  },
+  "name": "Hacer picnic",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb113"
+  },
+  "name": "Exposiciones",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb114"
+  },
+  "name": "Fotografía",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb115"
+  },
+  "name": "Meditación",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb116"
+  },
+  "name": "Spa",
+  "profesional": false
+},
+{
+  "_id": {
+    "$oid": "64879ed95340903bb1ebb117"
+  },
+  "name": "Turismo",
+  "profesional": false
+}]

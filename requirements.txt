@@ -1,0 +1,12 @@
+# Librería para generar datos 
+Faker  
+
+# Librería para trabajar con bases de datos MongoDB
+pymongo     
+
+# Librería para manipular datos
+pandas  
+
+# Librería para visualizar datos
+plotly
+

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "6489af585340903bb1ebb11e",
+    "description": "HR INTERNATIONAL SUMMER SCHOOL",
+    "events": ["6489d389c6fbcccc68731b10"],
+    "participantes": [],
+    "oficial": true,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  },
+  {
+    "name": "6489af585340903bb1ebb11e",
+    "description": "EDEM STARTUP",
+    "events": ["6489d389c6fbcccc68731b11"],
+    "participantes": [],
+    "oficial": true,
+    "createdBy": "6488e85f0130fed4d1624e6c"
+  }
+]

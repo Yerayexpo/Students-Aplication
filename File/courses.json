@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f36"
+  },
+  "name": "Grado IGE, Ingeniería y Gestión Empresarial",
+  "courseYear": "1º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f37"
+  },
+  "name": "Grado IGE, Ingeniería y Gestión Empresarial",
+  "courseYear": "2º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f38"
+  },
+  "name": "Grado IGE, Ingeniería y Gestión Empresarial",
+  "courseYear": "3º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f39"
+  },
+  "name": "Grado IGE, Ingeniería y Gestión Empresarial",
+  "courseYear": "4º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f3a"
+  },
+  "name": "Grado ADE, Creación y Dirección de Empresas",
+  "courseYear": "1º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f03e785526bbd480f3b"
+  },
+  "name": "Grado ADE, Creación y Dirección de Empresas",
+  "courseYear": "2º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f04e785526bbd480f3c"
+  },
+  "name": "Grado ADE, Creación y Dirección de Empresas",
+  "courseYear": "3º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f04e785526bbd480f3d"
+  },
+  "name": "Grado ADE, Creación y Dirección de Empresas",
+  "courseYear": "4º Grado"
+},
+{
+  "_id": {
+    "$oid": "64879f0ae785526bbd480f3e"
+  },
+  "name": "Máster Marketing y Venta Digital",
+  "courseYear": "MMVD - A"
+},
+{
+  "_id": {
+    "$oid": "64879f0ae785526bbd480f3f"
+  },
+  "name": "Máster Marketing y Venta Digital",
+  "courseYear": "MMVD - B"
+},
+{
+  "_id": {
+    "$oid": "64879f0ae785526bbd480f40"
+  },
+  "name": "Máster Fintech & Business Intelligence",
+  "courseYear": "MFBI"
+},
+{
+  "_id": {
+    "$oid": "64879f0ae785526bbd480f41"
+  },
+  "name": "MBA Junior",
+  "courseYear": "MBA Junior"
+},
+{
+  "_id": {
+    "$oid": "64879f0ae785526bbd480f42"
+  },
+  "name": "Máster Data Analytics",
+  "courseYear": "MDA"
+},
+{
+  "_id": {
+    "$oid": "64879f0de785526bbd480f43"
+  },
+  "name": "Bootcamp Data Science",
+  "courseYear": "Full Time"
+},
+{
+  "_id": {
+    "$oid": "64879f0de785526bbd480f44"
+  },
+  "name": "Bootcamp Data Science",
+  "courseYear": "Part Time"
+},
+{
+  "_id": {
+    "$oid": "64879f0de785526bbd480f45"
+  },
+  "name": "Bootcamp Full Stack",
+  "courseYear": "Full Time"
+},
+{
+  "_id": {
+    "$oid": "64879f0de785526bbd480f46"
+  },
+  "name": "Bootcamp Full Stack",
+  "courseYear": "Part Time"
+},
+{
+  "_id": {
+    "$oid": "64879f0ee785526bbd480f47"
+  },
+  "name": "Bootcamp UX/UI",
+  "courseYear": "UX/UI"
+},
+{
+  "_id": {
+    "$oid": "64879f0ee785526bbd480f48"
+  },
+  "name": "Bootcamp Ciberseguridad",
+  "courseYear": "Ciberseguridad"
+}]

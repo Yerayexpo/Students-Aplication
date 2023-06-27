@@ -1,0 +1,22 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Descripción de los endpoints</title>
+</head>
+<body>
+    <h1>Descripción de los endpoints</h1>
+    <ul>
+    {% for endpoint in endpoints %}
+        <li>
+            <strong>Endpoint:</strong> {{ endpoint.endpoint }}<br>
+            <strong>Métodos:</strong> {{ ', '.join(endpoint.methods) }}<br>
+            <strong>Descripción:</strong> {{ endpoint.description }}<br>
+            <strong>Ejemplo:</strong> {{ endpoint.example }}<br>
+            <strong>URL:</strong> <a href="{{ endpoint.url }}">{{ endpoint.url }}</a>
+        </li>
+        <br>
+    {% endfor %}
+    </ul>
+</body>
+</html>
