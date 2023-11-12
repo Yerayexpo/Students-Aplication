@@ -47,12 +47,12 @@ def home():
     endpoints = [
         {
             'endpoint': '/mapa',
-            'methods': ['GET'],
+            'methods': ['GET','POST'],
             'description': 'Obtener un mapa con rutas entre un origen y un destino, se proporciona el destino dentro de un json, el origen establecido es edem. Devuelve un codigo html con el mapa',
             'example': 'data = {"destino" : "Madrid"}',
             'url': 'https://desafio-api.onrender.com/mapa',
         },
-        {
+        { 
             'endpoint': '/generar',
             'methods': ['POST'],
             'description': 'Generar una imagen a partir de un prompt, se proporciona el prompt dentro de un json y devuelve una url',
@@ -61,7 +61,7 @@ def home():
         },
         {
             'endpoint': '/models/lenguaje',
-            'methods': ['GET'],
+            'methods': ['GET','POST'],
             'description': 'Analizar el lenguaje de un mensaje y verificar si contiene alguna palabrota, se proporciona el mensaje dentro de un json y devuelve true en caso de bad lenaguaje o false',
             'example': 'data = {"message" : "Hola que tal estas"}',
             'url': 'https://desafio-api.onrender.com/models/lenguaje',
